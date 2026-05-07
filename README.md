@@ -199,6 +199,10 @@ PRs welcome. Add real, reusable skills, keep descriptions precise, and include a
 - [Follow on X](https://twitter.com/composio) - Updates on new skills and features.
 - Questions? [support@composio.dev](mailto:support@composio.dev)
 
+## Resources
+
+- [Top Codex Skills](https://composio.dev/content/top-codex-skills)
+
 ---
 
 <p align="center">
