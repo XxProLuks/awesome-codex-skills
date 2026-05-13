@@ -121,6 +121,7 @@ Codex skills are modular instruction bundles that tell Codex how to execute a ta
 - [email-draft-polish/](./email-draft-polish/) - Draft, rewrite, or condense emails for the right tone and audience.
 - [changelog-generator/](./changelog-generator/) - Create clear changelogs from commits or summaries.
 - [content-research-writer/](./content-research-writer/) - Research and draft content with sourced citations.
+- [diasporic-intelligence](https://github.com/MinistaJazz/diasporic-intelligence) - External repo: source-credit skill for consent-governed lineage AI with attribution, provenance, revocation, and non-impersonation boundaries.
 - [novel-writing](https://github.com/wgwtest/novel-writing) - External repo: public Codex skill for fiction planning, chapter drafting, scene continuation, and revision.
 - [tailored-resume-generator/](./tailored-resume-generator/) - Tailor resumes to job descriptions with quantified impact.
 - [unslop](https://github.com/MohamedAbdallah-14/unslop) - External repo: CLI and MCP server that removes AI writing patterns from text: tricolons, em-dash overuse, hedging stacks, and sycophancy openers. Works with Codex, Claude Code, Gemini CLI, and Cursor. Five intensity levels and a lint-only audit mode.
